@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+====================================
+
+I laugh in the face of your pathetic attempt at a program!
